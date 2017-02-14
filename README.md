@@ -6,7 +6,8 @@ and worte Borland C++ Builder Win32 app to display it offline.
 
 Program has basic funcionalities like zooming, panning, measure and object info.
 
-I've attached binary release. It even runs on Linux, under Wine.  
+I've attached binary release. It even runs on Linux, under Wine.
+[Wi32 binary release](https://github.com/jedrus2000/paleo-map-of-gdynia/releases/)
 
 Screenshots:  
 
